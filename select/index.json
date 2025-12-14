@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ゲッタバンバン",
+  "base_artist": "佐香 智久",
+  "createdAt": "2025-12-14T08:47:42.900372Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゲッタバンバン",
+      "artist": "Tomohisa Sako",
+      "has_synced": true,
+      "path": "select/01_ゲッタバンバン_Tomohisa_Sako.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゲッタバンバン",
+      "artist": "佐香智久",
+      "has_synced": true,
+      "path": "select/02_ゲッタバンバン_佐香智久.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゲッタバンバン",
+      "artist": "少年T-佐香智久",
+      "has_synced": true,
+      "path": "select/03_ゲッタバンバン_少年T-佐香智久.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゲッタバンバン",
+      "artist": "Tomohisa Sako",
+      "has_synced": true,
+      "path": "select/04_ゲッタバンバン_Tomohisa_Sako.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゲッタバンバン",
+      "artist": "佐香 智久",
+      "has_synced": true,
+      "path": "select/05_ゲッタバンバン_佐香_智久.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゲッタバンバン - Get a Ban Ban",
+      "artist": "Tomohisa Sako",
+      "has_synced": true,
+      "path": "select/06_ゲッタバンバン_-_Get_a_Ban_Ban_Tomohisa_Sako.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゲッタバンバン アニメサイズver.",
+      "artist": "佐香 智久",
+      "has_synced": false,
+      "path": "select/07_ゲッタバンバン_アニメサイズver._佐香_智久.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゲッタバンバン -サトシwithピカチュウ ver.-",
+      "artist": "サトシ(CV:松本梨香)",
+      "has_synced": true,
+      "path": "select/08_ゲッタバンバン_-サトシwithピカチュウ_ver.-_サトシ(CV_松本梨香).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゲッタバンバン",
+      "artist": "佐香智久",
+      "has_synced": false,
+      "path": "select/pl_01_ゲッタバンバン_佐香智久.txt"
+    }
+  ]
+}
